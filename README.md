@@ -1,4 +1,7 @@
-## Hi there 👋
+## 다크 모드와 애니메이션은 사랑입니다.
+
+> [!NOTE]
+> 코틀린과 리눅스 서버를 배우자!
 
 <!--
 **CodeName393/CodeName393** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
